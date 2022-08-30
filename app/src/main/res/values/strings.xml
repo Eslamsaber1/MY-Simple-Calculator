@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="page_tittle">LOG IN</string>
+    <string name="BTN_ok">OK</string>
+    <string name="BTN_Cancel">CANCEL</string>
+    <string name="VIEW_hello">WELCOME TO MY APP</string>
+    <string name="HINT_USER">Enter user name</string>
+    <string name="HINT_PASS">Enter password</string>
+</resources>
